@@ -41,7 +41,7 @@ No change on the site, all work was on mockups and planning.
 
 ### Reflection
 
-I think that overall this sprint was very productive and I know the design process I will be going through. I will be using figma to create mockups, and prototyping and then using those to create the final design in Next.js.
+I think that overall this sprint was very productive and I now know the design process I will be going through. I will be using figma to create mockups, and prototyping and then using those to create the final design in Next.js.
 
 ### Major Changes and Achievements
 
