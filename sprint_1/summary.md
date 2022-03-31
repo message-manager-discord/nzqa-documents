@@ -3,7 +3,7 @@
 - Start Date: 18/03/2022
 - End Date: 31/03/2022
 - Work Hard Rating (out of 5): 4
-- Figma Version (instead of git has as no related git changes made): https://www.figma.com/file/uWcIK696M678g4ARUrRmLf/Site?version-id=1707102219&node-id=0%3A1
+- Figma Version (instead of git hash as no related git changes made): https://www.figma.com/file/uWcIK696M678g4ARUrRmLf/Site?version-id=1707102219&node-id=0%3A1
 
 ## Project board
 
