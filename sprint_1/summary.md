@@ -51,7 +51,7 @@ I think that overall this sprint was very productive and I now know the design p
 ## Testing
 
 I asked for feedback while designing the different profile states.
-I did this by asking for feedback in general, and creating different mockups for different design ideas.
+I did this by asking for feedback from classmates, and creating different mockups for different design ideas.
 
 For example for the mobile version of mockups I asked for feedback on what order the profile and links should be in, and changed my initial idea from the profile at the bottom to the login button below the profile.
 
