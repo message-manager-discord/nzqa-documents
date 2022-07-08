@@ -43,9 +43,6 @@ Changes:
 
 Overall I think this sprint went really well and I got a decent amount of work done (~30 hours). I think that this sprint brings me a lot closer to releasing the rewrite, and moving on to the website.
 
-## Testing
-
-TODO: Add ss of conversation with itsgaryk
 
 ## Notes for next sprint
 
