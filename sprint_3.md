@@ -1,7 +1,7 @@
 # Sprint 3
 
-- Start Date: Apr 15
-- End Date: May 18
+- Start Date: 15/04/2022
+- End Date: 18/05/2022
 - Work Hard Rating (out of 5): 5
 
 ## Project board
@@ -42,7 +42,6 @@ Changes:
 ### Reflection
 
 Overall I think this sprint went really well and I got a decent amount of work done (~30 hours). I think that this sprint brings me a lot closer to releasing the rewrite, and moving on to the website.
-
 
 ## Notes for next sprint
 

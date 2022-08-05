@@ -1,6 +1,6 @@
 # Sprint 2
 
-- Start Date: 31/03/2022
+- Start Date: 01/04/2022
 - End Date: 14/04/2022
 - Work Hard Rating (out of 5): 5
 
@@ -44,7 +44,7 @@ The majority of the work on the rewrite was already completed before this issue 
 - Completed the integration of a logging system that matches the existing logging system into the rewrite. fadce517efe80a17c673e5a4d2d79ef4fdaf3e9a This took up the majority of the time as it was a massive piece of work
 
 - A method to migrate to the new system. This is still being worked on at the end of this sprint, but is near completion.
-![wakatime](https://user-images.githubusercontent.com/52091960/182989153-73654dd5-9675-43a1-81f7-4f6660a54240.png)
+  ![wakatime](https://user-images.githubusercontent.com/52091960/182989153-73654dd5-9675-43a1-81f7-4f6660a54240.png)
 
 ## Testing
 
