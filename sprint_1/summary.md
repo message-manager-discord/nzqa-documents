@@ -9,17 +9,18 @@
 
 ### At Start
 
-![image](https://github.com/message-manager-discord/nzqa-documents/blob/11d87e57e6847e27de61ccc3531d9d21aae9e164/sprint_1/kanban_start_sprint_1.png)
+![kanban_start_sprint_1](https://user-images.githubusercontent.com/52091960/182989291-7106d33e-8c8d-4432-93c8-9bb7762daa8b.png)
 
 ### At End
 
-![image](https://github.com/message-manager-discord/nzqa-documents/blob/11d87e57e6847e27de61ccc3531d9d21aae9e164/sprint_1/kanban_end_sprint_1.png)
+![kanban_end_sprint_1](https://user-images.githubusercontent.com/52091960/182989416-dc4ba2c0-ea19-4fe7-af02-e78fe2476bcd.png)
 
 ## Screenshots / videos
 
 ### At Start
 
-![image](https://github.com/message-manager-discord/nzqa-documents/blob/11d87e57e6847e27de61ccc3531d9d21aae9e164/sprint_1/site_start_sprint_1.png)
+![site_start_sprint_1](https://user-images.githubusercontent.com/52091960/182989426-232e2a4a-7975-4bdb-8509-37463f2fe584.png)
+
 
 ### At End
 
@@ -27,15 +28,16 @@ No change on the site, all work was on mockups and planning.
 
 #### Mobile Mockups
 
-![image](https://github.com/message-manager-discord/nzqa-documents/blob/11d87e57e6847e27de61ccc3531d9d21aae9e164/sprint_1/figma_mobile_end_sprint_1.png)
+![figma_mobile_end_sprint_1](https://user-images.githubusercontent.com/52091960/182989457-c6ed8bd6-7043-4d5a-b6f4-53329c6d7333.png)
 
 #### Desktop Mockups
 
-![image](https://github.com/message-manager-discord/nzqa-documents/blob/11d87e57e6847e27de61ccc3531d9d21aae9e164/sprint_1/figma_desktop_end_sprint_1.png)
+![figma_desktop_end_sprint_1](https://user-images.githubusercontent.com/52091960/182989471-d5d3680d-50d3-49a4-9cae-caf445a04843.png)
 
 #### Mockup overview
 
-![image](https://github.com/message-manager-discord/nzqa-documents/blob/11d87e57e6847e27de61ccc3531d9d21aae9e164/sprint_1/figma_overview_end_sprint_1.png)
+![figma_overview_end_sprint_1](https://user-images.githubusercontent.com/52091960/182989485-09430087-e14f-4c08-8cf7-a30fd7e5bc34.png)
+
 
 ## Reflection and Summary
 
@@ -55,11 +57,12 @@ I did this by asking for feedback from classmates, and creating different mockup
 
 For example for the mobile version of mockups I asked for feedback on what order the profile and links should be in, and changed my initial idea from the profile at the bottom to the login button below the profile.
 
-![image](https://github.com/message-manager-discord/nzqa-documents/blob/11d87e57e6847e27de61ccc3531d9d21aae9e164/sprint_1/mobile_profile_closeup_end_sprint_1.png)
+![mobile_profile_closeup_end_sprint_1](https://user-images.githubusercontent.com/52091960/182989524-eea38033-8d7f-4fab-a62c-8965353cf585.png)
 
 I also got feedback for the desktop version, which changed my design idea from having a floating state for the dropdown, to having a permanent separated portion that expands.
 
-![image](https://github.com/message-manager-discord/nzqa-documents/blob/11d87e57e6847e27de61ccc3531d9d21aae9e164/sprint_1/desktop_profile_closeup_end_sprint_1.png)
+![desktop_profile_closeup_end_sprint_1](https://user-images.githubusercontent.com/52091960/182989546-54d7efc5-3ca0-495d-bf65-82d16e102811.png)
+
 
 ### Summary
 
