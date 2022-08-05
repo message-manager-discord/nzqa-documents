@@ -31,8 +31,7 @@ I did not consider the rewrite part of this project as this project was mainly f
 #### The issue
 
 The issue that started occurring near the start of the sprint was an issue with connecting to discord. I'm still not sure why it is occurring, but I suspect it is because the old system relies on libraries that are not maintained anymore.
-
-![error](https://github.com/message-manager-discord/nzqa-documents/blob/0970d4ccef6c52676f90f1ab076829093f9b9dd3/sprint_2/error.png)
+![error](https://user-images.githubusercontent.com/52091960/182989141-6013be76-b627-455a-ba02-6e1b6ffa6da4.png)
 
 After this started, I switched focus to getting the rewrite out as soon as possible. The bare minium for the rewrite was to get feature parity with the existing system.
 
@@ -45,8 +44,7 @@ The majority of the work on the rewrite was already completed before this issue 
 - Completed the integration of a logging system that matches the existing logging system into the rewrite. fadce517efe80a17c673e5a4d2d79ef4fdaf3e9a This took up the majority of the time as it was a massive piece of work
 
 - A method to migrate to the new system. This is still being worked on at the end of this sprint, but is near completion.
-
-![wakatime](https://github.com/message-manager-discord/nzqa-documents/blob/0970d4ccef6c52676f90f1ab076829093f9b9dd3/sprint_2/wakatime.png)
+![wakatime](https://user-images.githubusercontent.com/52091960/182989153-73654dd5-9675-43a1-81f7-4f6660a54240.png)
 
 ## Testing
 
