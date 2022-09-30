@@ -32,6 +32,7 @@ I did not consider the rewrite part of this project as this project was mainly f
 
 The issue that started occurring near the start of the sprint was an issue with connecting to discord. I'm still not sure why it is occurring, but I suspect it is because the old system relies on libraries that are not maintained anymore.
 ![error](https://user-images.githubusercontent.com/52091960/182989141-6013be76-b627-455a-ba02-6e1b6ffa6da4.png)
+(or see error.png in sprint_2 folder)
 
 After this started, I switched focus to getting the rewrite out as soon as possible. The bare minium for the rewrite was to get feature parity with the existing system.
 
@@ -45,6 +46,7 @@ The majority of the work on the rewrite was already completed before this issue 
 
 - A method to migrate to the new system. This is still being worked on at the end of this sprint, but is near completion.
   ![wakatime](https://user-images.githubusercontent.com/52091960/182989153-73654dd5-9675-43a1-81f7-4f6660a54240.png)
+  (or see wakatime.png in sprint_2 folder)
 
 ## Testing
 

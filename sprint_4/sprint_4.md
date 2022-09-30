@@ -9,10 +9,12 @@
 ### At Start
 
 ![image](https://user-images.githubusercontent.com/52091960/171774430-f73b7009-1a03-4c0e-9241-78514ead7a7b.png)
+(or kanban_at_start_sprint_4.png in sprint_4 folder)
 
 ### At End
 
 ![image](https://user-images.githubusercontent.com/52091960/171774328-eab9a3f3-80a6-41a9-a2d4-db5f42f2957b.png)
+(or kanban_at_end_sprint_4.png in sprint_4 folder)
 
 ## Reflection and Summary
 
@@ -30,18 +32,21 @@ This sprint was not that productive, mainly due to some days away due to school 
 ### Feedback on docs
 
 ![Screen Shot 2022-07-08 at 2 35 03 PM](https://user-images.githubusercontent.com/52091960/177905498-334688ba-5a5d-4277-b3d6-a8dbe89d7a8a.png)
+(or see feedback_1_sprint_4.png in sprint_4 folder)
 
 This feedback was implemented on the site.
 
 ### Feedback on the permissions system
 
 ![Screen Shot 2022-07-08 at 2 36 54 PM](https://user-images.githubusercontent.com/52091960/177905677-8a610800-17c1-4fc4-835e-81841ac628db.png)
+(or see feedback_2_sprint_4.png in sprint_4 folder)
 
 This was feedback on the permissions system and current system, however I didn't not change anything regarding this (and the last two points were already implemented).
 
 ### My response
 
 ![Screen Shot 2022-07-08 at 2 39 16 PM](https://user-images.githubusercontent.com/52091960/177905962-ed660f05-f8aa-4c15-b308-c6d07230c619.png)
+(or see response_1_sprint_4.png in sprint_4 folder)
 
 ### Other feedback
 

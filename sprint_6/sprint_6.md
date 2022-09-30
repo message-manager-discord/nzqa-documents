@@ -1,19 +1,20 @@
 # Sprint 6
 
-- Start Date: 9/07/2022
-- End Date: 30/09/2022
+- Start Date: 20/06/2022
+- End Date: 9/07/2022
 - Work Hard Rating (out of 5): 5
 
 ## Project board
 
 ### At Start
 
-![Screen Shot 2022-07-09 at 4 34 46 PM](https://user-images.githubusercontent.com/52091960/178091737-6ba34b0f-0b44-40a8-b48c-2d2e98befaf9.png)
+![Screen Shot 2022-07-09 at 4 21 13 PM](https://user-images.githubusercontent.com/52091960/178091383-14afc15b-c503-483e-b522-071b43769df3.png)
+(or see kanban_at_start_sprint_6.png in sprint_6 folder)
 
 ### At End
 
-![Screen Shot 2022-09-30 at 2 24 22 PM](https://user-images.githubusercontent.com/52091960/193169973-47b0bb75-2fcc-4e36-9817-09006fdb8ac3.png)
-
+![Screen Shot 2022-07-09 at 4 34 46 PM](https://user-images.githubusercontent.com/52091960/178091737-6ba34b0f-0b44-40a8-b48c-2d2e98befaf9.png)
+(or see kanban_at_end_sprint_6.png in sprint_6 folder)
 
 ## Reflection and Summary
 
@@ -21,16 +22,13 @@
 
 (this is in time order)
 
-Backend API:
-
-- Bug Fix (ensuring message id is valid when accepting raw message ids) to avoid discord 400 errors - 405e958369efb04aa9044e8a2040261bf30fcb90
-- Bug Fix: reduce modal title length when it is too long (with long channel names) - the was causing the modal to "fail" with just a generic error message displayed to users - d2f92b520b0fc1a52cb30d13f6790a00fc675ec1
-- Documentation: improve overall comments and readability of code - 46ada2740d54e4313adaca5f53e1529ea8968b9a
-
-Site:
-
-- Rework website with remix and improve overall styles - 6d889465b1cf26efdfbd9bfd5d7f78942cabd074
-- Improve overall comments and readability of code - e824dbf70276afefe0373f58aa82e38d221a7dbc
+- Add embeds editing / sending. This was a major piece of work.
+- Minor fixes and style changes
+- Fix sentry logging
+- Released new interactions version to production
+- Fixed an issue where mobile users couldn't use context menus (discord's end), and so added slash commands for compatiblity
+- Fixed another issue where webhooks being deleted wasn't handled
+- Added a command to get the format of mentions, to make it easier to use.
 
 ### Reflection
 
@@ -44,7 +42,9 @@ There was a lot of testing, and feedback from users this time round.
 ### Feedback and testing from testers before release
 
 ![Screen Shot 2022-07-09 at 4 42 08 PM](https://user-images.githubusercontent.com/52091960/178091888-1858cfcd-495e-4905-a6f2-cc15761557ec.png)
+(or see feedback_1_sprint_6.png in sprint_6 folder)
 ![Screen Shot 2022-07-09 at 4 42 24 PM](https://user-images.githubusercontent.com/52091960/178091893-1592b90a-a6bc-478e-916f-eb4e70bfdd36.png)
+(or see feedback_2_sprint_6.png in sprint_6 folder)
 
 Not much here was actioned, but it did reassure me there weren't any really bad bugs.
 
@@ -53,6 +53,7 @@ Not much here was actioned, but it did reassure me there weren't any really bad 
 #### Issue with webhooks
 
 ![Screen Shot 2022-07-09 at 4 44 04 PM](https://user-images.githubusercontent.com/52091960/178091932-2d1610ae-46b0-4d7f-9a52-d4057d522e07.png)
+(or see issue_1_sprint_6.png in sprint_6 folder)
 
 This issue was fixed
 

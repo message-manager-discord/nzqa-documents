@@ -9,10 +9,12 @@
 ### At start
 
 ![image](https://github.com/message-manager-discord/nzqa-documents/blob/11d87e57e6847e27de61ccc3531d9d21aae9e164/sprint_1/kanban_end_sprint_1.png)
+(or kanban_start_sprint_3.png in sprint_3 folder)
 
 ### At end
 
 ![image](https://user-images.githubusercontent.com/52091960/168931702-5df6a234-4321-4f1c-b595-3dc02a1907cb.png)
+(or see kanban_at_end_sprint_3.png in sprint_3 folder)
 
 ## Reflection and Summary
 

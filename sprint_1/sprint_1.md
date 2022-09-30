@@ -10,17 +10,19 @@
 ### At Start
 
 ![kanban_start_sprint_1](https://user-images.githubusercontent.com/52091960/182989291-7106d33e-8c8d-4432-93c8-9bb7762daa8b.png)
+(or see kanban_start_sprint_1.png in sprint_1 folder)
 
 ### At End
 
 ![kanban_end_sprint_1](https://user-images.githubusercontent.com/52091960/182989416-dc4ba2c0-ea19-4fe7-af02-e78fe2476bcd.png)
+(or see kanban_end_sprint_1.png in sprint_1 folder)
 
 ## Screenshots / videos
 
 ### At Start
 
 ![site_start_sprint_1](https://user-images.githubusercontent.com/52091960/182989426-232e2a4a-7975-4bdb-8509-37463f2fe584.png)
-
+(or see site_start_sprint_1.png in sprint_1 folder)
 
 ### At End
 
@@ -29,15 +31,17 @@ No change on the site, all work was on mockups and planning.
 #### Mobile Mockups
 
 ![figma_mobile_end_sprint_1](https://user-images.githubusercontent.com/52091960/182989457-c6ed8bd6-7043-4d5a-b6f4-53329c6d7333.png)
+(or see figma_mobile_end_sprint_1.png in sprint_1 folder)
 
 #### Desktop Mockups
 
 ![figma_desktop_end_sprint_1](https://user-images.githubusercontent.com/52091960/182989471-d5d3680d-50d3-49a4-9cae-caf445a04843.png)
+(or see figma_desktop_end_sprint_1.png in sprint_1 folder)
 
 #### Mockup overview
 
 ![figma_overview_end_sprint_1](https://user-images.githubusercontent.com/52091960/182989485-09430087-e14f-4c08-8cf7-a30fd7e5bc34.png)
-
+(or see figma_overview_end_sprint_1.png in sprint_1 folder)
 
 ## Reflection and Summary
 
@@ -58,11 +62,12 @@ I did this by asking for feedback from classmates, and creating different mockup
 For example for the mobile version of mockups I asked for feedback on what order the profile and links should be in, and changed my initial idea from the profile at the bottom to the login button below the profile.
 
 ![mobile_profile_closeup_end_sprint_1](https://user-images.githubusercontent.com/52091960/182989524-eea38033-8d7f-4fab-a62c-8965353cf585.png)
+(or see mobile_profile_closeup_end_sprint_1.png in sprint_1 folder)
 
 I also got feedback for the desktop version, which changed my design idea from having a floating state for the dropdown, to having a permanent separated portion that expands.
 
 ![desktop_profile_closeup_end_sprint_1](https://user-images.githubusercontent.com/52091960/182989546-54d7efc5-3ca0-495d-bf65-82d16e102811.png)
-
+(or see desktop_profile_closeup_end_sprint_1.png in sprint_1 folder)
 
 ### Summary
 
